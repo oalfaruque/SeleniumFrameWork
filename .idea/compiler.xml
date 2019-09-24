@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Generic" />
         <module name="Facebook" />
+        <module name="CNN" />
       </profile>
     </annotationProcessing>
   </component>
